@@ -1,0 +1,89 @@
+# Confidential farm and animal data
+data/
+datasets/
+raw_data/
+processed_data/
+farm_data/
+animal_data/
+clinical_data/
+*.csv
+*.xlsx
+*.xls
+*.xlsm
+*.parquet
+*.json
+*.db
+*.sqlite
+
+# Research results and analytical outputs
+results/
+outputs/
+predictions/
+reports/
+figures/
+exports/
+experiments/
+*.pdf
+*.docx
+*.html
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+# Trained models and artifacts
+models/
+checkpoints/
+artifacts/
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.hdf5
+*.keras
+*.onnx
+*.npy
+*.npz
+
+# Statistical software files
+*.sav
+*.zsav
+*.spv
+*.prism
+*.pzfx
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python environment
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.cache/
+.pytest_cache/
+
+# Credentials and secrets
+.env
+.env.*
+secrets/
+credentials/
+*.pem
+*.key
+
+# Logs and temporary files
+logs/
+*.log
+*.tmp
+
+# Archives
+*.zip
+*.rar
+*.7z
+
+# IDE and operating system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
